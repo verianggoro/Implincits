@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Implicits</string>
+    <string name="open_website">Open Website</string>
+    <string name="https_www_example_com">https://www.example.com</string>
+    <string name="open_location">Open Location</string>
+    <string name="jakarta_bandung_bali">Jakarta, Bandung, Bali</string>
+    <string name="share_this_text">Share This Text</string>
+    <string name="i_dont_care">I Dont Care</string>
+</resources>
